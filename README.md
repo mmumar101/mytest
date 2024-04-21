@@ -30,29 +30,7 @@ Displays fetched messages in a neat and organized interface.
 Uses React.js for building the user interface components.
 Utilizes Axios for making HTTP requests to the API.
 Styling with Tailwind CSS for a modern and responsive design.
-Usage
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/api-request-interface.git
-Navigate into the project directory:
-bash
-Copy code
-cd api-request-interface
-Install dependencies:
-bash
-Copy code
-npm install
-# or
-yarn
-Replace 'YOUR_API_ENDPOINT' in the MessageList.js file with the actual URL of your API endpoint.
-Start the development server:
-bash
-Copy code
-npm run dev
-# or
-yarn dev
-Open your browser and navigate to http://localhost:3000 to view the application.
+
 Structure
 src/MessageList.js: React component responsible for fetching data from the API and rendering it in the interface.
 src/index.js: Entry point of the application where the React component is rendered.
