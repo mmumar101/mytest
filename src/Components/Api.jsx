@@ -1,0 +1,1 @@
+export const Api = 'http://www.test.readychatai.coM/data'
