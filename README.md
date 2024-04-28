@@ -8,12 +8,6 @@ This project demonstrates how to fetch data from an API and display it in a user
 Overview
 This application fetches messages data from an API and presents it in a simple, aesthetic, and functional interface. It utilizes React.js for building the UI components and Axios for making HTTP requests to the API endpoint. Tailwind CSS is used for styling the components, providing a clean and modern design.
 
-API Request Interface
-This project demonstrates how to fetch data from an API and display it in a user interface using React.js with Tailwind CSS for styling.
-
-Overview
-This application fetches messages data from an API and presents it in a simple, aesthetic, and functional interface. It utilizes React.js for building the UI components and Axios for making HTTP requests to the API endpoint. Tailwind CSS is used for styling the components, providing a clean and modern design.
-
 Features
 Fetches data from an API endpoint.
 Displays fetched messages in a neat and organized interface.
