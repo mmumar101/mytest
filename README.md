@@ -15,9 +15,6 @@ Uses React.js for building the user interface components.
 Utilizes Axios for making HTTP requests to the API.
 Styling with Tailwind CSS for a modern and responsive design.
 
-
-Certainly! Here's a README.md file tailored to your API request work:
-
 API Request Interface
 This project demonstrates how to fetch data from an API and display it in a user interface using React.js with Tailwind CSS for styling.
 
